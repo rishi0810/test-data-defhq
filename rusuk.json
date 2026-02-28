@@ -1,0 +1,30 @@
+{
+  "title": "Russia Intensifies Assault on Ukraine's Fortress Belt",
+  "content": [
+    {
+      "What happened": "In late February 2026, Russian forces unleashed a concentrated artillery, missile, and drone bombardment on key eastern Ukrainian cities, including Kramatorsk and Kostyantynivka.",
+      "Why it matters": "This aggressive battlefield air interdiction campaign signals the preparatory phase for a massive Spring-Summer 2026 ground offensive aimed at breaking the heavily fortified defensive backbone of Ukraine's Donetsk Oblast.",
+      "The big picture": "As the war enters its fifth year, combined casualties are approaching 2 million. With recent US-mediated peace talks in Geneva stalling over security guarantees, both nations are locking into a protracted, high-intensity phase of attrition."
+    }
+  ],
+  "images": [
+    "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-27T184129Z_87063290_RC29UJAM5NGN_RTRMADP_3_UKRAINE-CRISIS-EAST-1772253335.jpg?resize=770%2C513&quality=80", 
+    "https://www.aljazeera.com/wp-content/uploads/2024/08/2024-08-08T175712Z_1378255417_RC2LB9AVWXP5_RTRMADP_3_UKRAINE-CRISIS-SEVERODONETSK-1723195679.jpg?w=770&resize=770%2C513&quality=80", 
+    "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-24T091450Z_370662425_RC27SJA3SR5Q_RTRMADP_3_UKRAINE-CRISIS-ANNIVERSARY-1772219019.jpg?resize=770%2C513&quality=80"
+    ],
+  "related_toi_links": [
+    "https://timesofindia.indiatimes.com/world/europe/russian-agency-claims-uk-france-covertly-planning-to-transfer-n-weapons-to-ukraine/articleshow/128763064.cms",
+    "https://timesofindia.indiatimes.com/videos/international/uk-troops-fighting-russia-blasts-britain-over-direct-military-role-in-ukraine-de-facto-at-war/videoshow/128124423.cms",
+    "https://timesofindia.indiatimes.com/videos/international/uks-nuclear-umbrella-cant-putin-aide-openly-mocks-eu-states-nuke-might-britain-sounds-alert/videoshow/128475397.cms"
+  ],
+  "lat_long": {
+    "lat": "48.7363",
+    "long": "37.5844"
+  },
+  "severity_level": "9",
+  "article_source": "https://www.aljazeera.com/news/2025/8/11/putin-will-fool-trump-why-ukrainians-are-wary-about-trump-putin-talks",
+  "threat_id": "F41E",
+  "last_updated": 1772297651,
+  "type": "Active Warfare",
+  "countries_involved": ["Russia", "Ukraine"]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Sudan's Civil War Reaches Dangerous Turning Point Amid Imminent Famine",
+  "content": [
+    {
+      "What happened": "Violence has surged dramatically in Sudan's Kordofan and Jonglei regions, with the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) deploying heavy drone strikes, indiscriminate shelling, and weaponizing water access.",
+      "Why it matters": "Now over 1,000 days into the conflict, the violence has created the world's worst humanitarian crisis. Over 280,000 people have been displaced in just weeks, pushing vast segments of the population into catastrophic IPC Phase 5 famine conditions.",
+      "The big picture": "The UN has cited active hallmarks of genocide in El Fasher and sanctioned key RSF commanders on February 27, 2026. Without an immediate ceasefire, the conflict threatens to permanently fracture Sudan into perpetually warring mini-states."
+    }
+  ],
+  "images": [
+    "https://www.aljazeera.com/wp-content/uploads/2026/02/afp_69a02e00e197-1772105217.jpg?resize=770%2C513&quality=80", 
+  "https://www.aljazeera.com/wp-content/uploads/2026/02/reuters_699c37d0-1771845584.jpg?resize=770%2C513&quality=80", 
+  "https://www.aljazeera.com/wp-content/uploads/2026/02/getty_699e9f5610-1772003158.jpg?resize=770%2C513&quality=80"],
+  "related_toi_links": [
+    "https://timesofindia.indiatimes.com/short-videos/briefs/100-killed-as-sudan-civil-war-turns-deadly-for-charity-workers-rsf-siege-ravages-darfur/shorttakes/128845431.cms",
+    "https://timesofindia.indiatimes.com/world/us/trump-to-focus-on-ending-sudan-civil-war/articleshow/125471328.cms",
+    "https://timesofindia.indiatimes.com/world/rest-of-world/sudan-war-could-involved-foreign-powers-stop-the-war-there/articleshow/125032764.cms"
+  ],
+  "lat_long": {
+    "lat": "15.5007",
+    "long": "32.5599"
+  },
+  "severity_level": "9",
+  "article_source": "https://www.bbc.com/news/articles/cd9eeyz933jo",
+  "type": "Civil War",
+  "countries_involved": ["Sudan"],
+  "threat_id": "2D9BC",
+  "last_updated": 1772297651
+}
