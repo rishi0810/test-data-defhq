@@ -8,21 +8,19 @@
     }
   ],
   "images": [
-    "https://www.aljazeera.com/wp-content/uploads/2026/02/afp_69a02e00e197-1772105217.jpg?resize=770%2C513&quality=80", 
-  "https://www.aljazeera.com/wp-content/uploads/2026/02/reuters_699c37d0-1771845584.jpg?resize=770%2C513&quality=80", 
-  "https://www.aljazeera.com/wp-content/uploads/2026/02/getty_699e9f5610-1772003158.jpg?resize=770%2C513&quality=80"],
+    "https://www.aljazeera.com/wp-content/uploads/2026/02/afp_69a02e00e197-1772105217.jpg?resize=770%2C513&quality=80",
+    "https://www.aljazeera.com/wp-content/uploads/2026/02/reuters_699c37d0-1771845584.jpg?resize=770%2C513&quality=80",
+    "https://www.aljazeera.com/wp-content/uploads/2026/02/getty_699e9f5610-1772003158.jpg?resize=770%2C513&quality=80"
+  ],
   "related_toi_links": [
     "https://timesofindia.indiatimes.com/short-videos/briefs/100-killed-as-sudan-civil-war-turns-deadly-for-charity-workers-rsf-siege-ravages-darfur/shorttakes/128845431.cms",
     "https://timesofindia.indiatimes.com/world/us/trump-to-focus-on-ending-sudan-civil-war/articleshow/125471328.cms",
     "https://timesofindia.indiatimes.com/world/rest-of-world/sudan-war-could-involved-foreign-powers-stop-the-war-there/articleshow/125032764.cms"
   ],
-  "lat_long": {
-    "lat": "15.5007",
-    "long": "32.5599"
-  },
+  "lat_long": [{ "country": "Sudan", "lat": "15.5007", "long": "32.5599" }],
   "severity_level": "9",
   "article_source": "https://www.bbc.com/news/articles/cd9eeyz933jo",
-  "type": "Civil War",
+  "type": "civilWar",
   "countries_involved": ["Sudan"],
   "threat_id": "2D9BC",
   "last_updated": 1772297651

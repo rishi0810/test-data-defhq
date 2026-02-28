@@ -8,20 +8,22 @@
     }
   ],
   "images": [
-    "https://www.aljazeera.com/wp-content/uploads/2026/02/AFP__20260228__999Y47E__v1__HighRes__IranIsraelUsConflict-1772265476.jpg?resize=770%2C513&quality=80", 
+    "https://www.aljazeera.com/wp-content/uploads/2026/02/AFP__20260228__999Y47E__v1__HighRes__IranIsraelUsConflict-1772265476.jpg?resize=770%2C513&quality=80",
     "https://www.aljazeera.com/wp-content/uploads/2026/02/GettyImages-2263410440-1772265798.jpg?resize=770%2C513&quality=80",
-    "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-28T100535Z_1207820246_RC2XUJA1XO4R_RTRMADP_3_IRAN-CRISIS-BAHRAIN-1772274772.jpg?resize=770%2C513&quality=80"],
+    "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-28T100535Z_1207820246_RC2XUJA1XO4R_RTRMADP_3_IRAN-CRISIS-BAHRAIN-1772274772.jpg?resize=770%2C513&quality=80"
+  ],
   "related_toi_links": [
     "https://timesofindia.indiatimes.com/world/middle-east/watch-israel-releases-first-footage-of-strikes-on-iran/articleshow/128885133.cms",
     "https://timesofindia.indiatimes.com/world/middle-east/iran-bombed-israel-us-carry-out-joint-attack-on-tehran-near-khameneis-offices-top-developments/articleshow/128877333.cms",
     "https://timesofindia.indiatimes.com/india/urge-all-sides-to-exercise-restraint-india-on-middle-east-situation-as-us-israel-attack-iran/articleshow/128887803.cms"
   ],
-  "lat_long": {
-    "lat": "35.6892",
-    "long": "51.3890"
-  },
+  "lat_long": [
+    { "country": "United States", "lat": "38.8951", "long": "-77.0364" },
+    { "country": "Israel", "lat": "31.7683", "long": "35.2137" },
+    { "country": "Iran", "lat": "35.6892", "long": "51.3890" }
+  ],
   "severity_level": "10",
-  "type": "Active Warfare",
+  "type": "activeWarfare",
   "countries_involved": ["United States", "Israel", "Iran"],
   "article_source": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-strikes-in-tehran-india-issues-advisory-urges-indians-to-exercise-utmost-caution/articleshow/128877823.cms",
   "threat_id": "A3F7",

@@ -7,36 +7,34 @@
   "feed": [
     {
       "title": "US and Israel Launch Major Direct Strikes on Iran",
-      "type": "Active Warfare",
+      "type": "activeWarfare",
       "severity": "10",
-      "lat_long": {
-        "lat": "35.6892",
-        "long": "51.3890"
-      },
+      "lat_long": [
+        { "country": "United States", "lat": "38.8951", "long": "-77.0364" },
+        { "country": "Israel", "lat": "31.7683", "long": "35.2137" },
+        { "country": "Iran", "lat": "35.6892", "long": "51.3890" }
+      ],
       "countries_involved": ["United States", "Israel", "Iran"],
       "threat_id": "A3F7",
       "last_updated": 1772297651
     },
     {
       "title": "Sudan's Civil War Reaches Dangerous Turning Point Amid Imminent Famine",
-      "type": "Civil War",
+      "type": "civilWar",
       "severity": "9",
-      "lat_long": {
-        "lat": "15.5007",
-        "long": "32.5599"
-      },
+      "lat_long": [{ "country": "Sudan", "lat": "15.5007", "long": "32.5599" }],
       "countries_involved": ["Sudan"],
       "threat_id": "2D9BC",
       "last_updated": 1772297651
     },
     {
       "title": "Russia Intensifies Assault on Ukraine's Fortress Belt",
-      "type": "Active Warfare",
+      "type": "activeWarfare",
       "severity": "9",
-      "lat_long": {
-        "lat": "48.7363",
-        "long": "37.5844"
-      },
+      "lat_long": [
+        { "country": "Russia", "lat": "55.7558", "long": "37.6173" },
+        { "country": "Ukraine", "lat": "48.7363", "long": "37.5844" }
+      ],
       "countries_involved": ["Russia", "Ukraine"],
       "threat_id": "F41E",
       "last_updated": 1772297651
